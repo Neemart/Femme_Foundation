@@ -31,20 +31,20 @@ Across 8 audited government digital identity portals, 0 currently offer any indi
 
 ## Repository Structure
 
-- data/ — Cleaned datasets (Excel/CSV) used across the dashboard
-- methodology/ — Written methodology docs: Risk Score formula, audit methods, gap logic
-- dashboard/ — Power BI (.pbix) files
-- docs/ — Project documentation, proposal, final report, presentation materials
-- README.md — This file
+- data/  Cleaned datasets (Excel/CSV) used across the dashboard
+- methodology/ Written methodology docs: Risk Score formula, audit methods, gap logic
+- dashboard/  Power BI (.pbix) files
+- docs/ Project documentation, proposal, final report, presentation materials
+- README.md This file
 
-## Language Exclusion Risk Score — Summary
+## Language Exclusion Risk Score  Summary
 
 Risk Score = Literacy Risk + Fluency Risk + Internet Risk + Fragmentation Risk (0–100 scale)
 
-- Literacy Risk — based on Adult Literacy %
-- Fluency Risk — based on % of population fluent in the official language
-- Internet Risk — based on Internet Users %
-- Fragmentation Risk — based on number of indigenous languages with no official digital recognition
+- Literacy Risk  based on Adult Literacy %
+- Fluency Risk  based on % of population fluent in the official language
+- Internet Risk  based on Internet Users %
+- Fragmentation Risk  based on number of indigenous languages with no official digital recognition
 
 Risk Tiers: 0–33 Low · 34–66 Medium · 67–100 High
 
@@ -59,7 +59,7 @@ Full formula, weighting rationale, and data sources are documented in /methodolo
 
 ## Status
 
-In progress — Women Techsters Hackathon submission
+In progress  Women Techsters Hackathon submission
 
 ## Contact
 
