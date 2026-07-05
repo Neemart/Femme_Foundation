@@ -1,6 +1,6 @@
 # ECOWAS Language & Digital Identity Inclusion Dashboard
 
-**Women Techsters Hackathon — Group 14 (Femme Foundation)**
+**Women Techsters Hackathon  Group 14 (Femme Foundation)**
 Category 3: Data Analysts & Technical Project Managers
 
 ## Project Overview
@@ -8,9 +8,9 @@ Category 3: Data Analysts & Technical Project Managers
 This project examines language exclusion in African digital identity systems across the 12 current ECOWAS member states. It combines language mapping, a custom Language Exclusion Risk Score, literacy and gender inclusion analysis, and a government digital ID portal accessibility audit into one Power BI dashboard.
 
 Aligned with:
-- SDG 9 — Industry, Innovation and Infrastructure
-- SDG 10 — Reduced Inequalities
-- SDG 16 — Peace, Justice and Strong Institutions
+- SDG 9  Industry, Innovation and Infrastructure
+- SDG 10  Reduced Inequalities
+- SDG 16  Peace, Justice and Strong Institutions
 
 ## Key Finding
 
