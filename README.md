@@ -217,9 +217,7 @@ The project incorporates AI in three ways:
 | Jemima Abah | Data Analyst – Dashboard Visualization | Charts, maps, slicers, presentation design |
 | Gift Ikechukwu | Data Analyst – Documentation & Reporting | Team register, report writing, final QA |
 
-Group 14 – FEMME FOUNDATION
 
-Women Techsters Bootcamp 5.1
 
 ---
 
