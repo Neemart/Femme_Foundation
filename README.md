@@ -1,5 +1,8 @@
 # ECOWAS Language & Digital Identity Inclusion Dashboard
 
+## Women Techsters Bootcamp 5.1 Capstone Project
+
+### Group 14 – FEMME FOUNDATION
 **Women Techsters Hackathon  Group 14 (Femme Foundation)**
 Category 3: Data Analysts & Technical Project Managers
 
@@ -11,10 +14,12 @@ Aligned with:
 - SDG 9  Industry, Innovation and Infrastructure
 - SDG 10  Reduced Inequalities
 - SDG 16  Peace, Justice and Strong Institutions
+---
 
 ## Key Finding
 
 Across 8 audited government digital identity portals, 0 currently offer any indigenous African language option — despite most ECOWAS countries having official languages (English, French, Portuguese) spoken fluently by only a minority of the population.
+---
 
 ## Team & Roles
 
@@ -29,6 +34,7 @@ Across 8 audited government digital identity portals, 0 currently offer any indi
 | Jemima Abah | Data Analyst – Dashboard Visualization | Charts, maps, slicers, presentation design |
 | Gift Ikechukwu | Data Analyst – Documentation & Reporting | Team register, report writing, final QA |
 
+----
 ## Repository Structure
 
 - data/  Cleaned datasets (Excel/CSV) used across the dashboard
@@ -36,6 +42,7 @@ Across 8 audited government digital identity portals, 0 currently offer any indi
 - dashboard/  Power BI (.pbix) files
 - docs/ Project documentation, proposal, final report, presentation materials
 - README.md This file
+---
 
 ## Language Exclusion Risk Score  Summary
 
@@ -49,6 +56,7 @@ Risk Score = Literacy Risk + Fluency Risk + Internet Risk + Fragmentation Risk (
 Risk Tiers: 0–33 Low · 34–66 Medium · 67–100 High
 
 Full formula, weighting rationale, and data sources are documented in /methodology.
+----
 
 ## Data Sources
 
@@ -57,10 +65,12 @@ Full formula, weighting rationale, and data sources are documented in /methodolo
 - World Bank Open Data (literacy, internet access, financial inclusion)
 - Direct audit of national digital ID portal websites (see /methodology for audit log)
 
+  ---
 ## Status
 
 In progress  Women Techsters Hackathon submission
 
+---
 ## Contact
 
 For questions about this repository, contact the team via the Women Techsters Category 3 hackathon channel.
