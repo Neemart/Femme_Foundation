@@ -6,6 +6,7 @@
 **Women Techsters Hackathon  Group 14 (Femme Foundation)**
 Category 3: Data Analysts & Technical Project Managers
 
+---
 ## Project Overview
 
 This project examines language exclusion in African digital identity systems across the 12 current ECOWAS member states. It combines language mapping, a custom Language Exclusion Risk Score, literacy and gender inclusion analysis, and a government digital ID portal accessibility audit into one Power BI dashboard.
@@ -19,6 +20,7 @@ Aligned with:
 ## Key Finding
 
 Across 8 audited government digital identity portals, 0 currently offer any indigenous African language option — despite most ECOWAS countries having official languages (English, French, Portuguese) spoken fluently by only a minority of the population.
+
 ---
 
 ## Team & Roles
