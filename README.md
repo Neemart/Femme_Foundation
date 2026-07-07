@@ -64,3 +64,140 @@ In progress  Women Techsters Hackathon submission
 ## Contact
 
 For questions about this repository, contact the team via the Women Techsters Category 3 hackathon channel.
+
+---
+
+
+
+
+
+
+# Language & Digital Inclusion Dashboard
+
+## Women Techsters Bootcamp 5.1 Capstone Project
+
+### Group 14 – FEMME FOUNDATION
+
+---
+
+# Project Overview
+
+This project investigates how language barriers contribute to digital exclusion in ECOWAS digital identity systems.
+
+Across many ECOWAS countries, government digital identity services are available only in English, French, or Portuguese despite most citizens speaking indigenous languages.
+
+The dashboard visualizes where language, literacy, gender, and digital access intersect to create barriers to essential services.
+
+---
+
+# Problem Statement
+
+Millions of ECOWAS citizens cannot independently access digital identity systems because government portals rarely support indigenous languages. This disproportionately affects women, rural populations, and individuals with lower literacy levels.
+
+---
+
+# Objectives
+
+- Measure language exclusion across ECOWAS.
+- Create a Language Exclusion Risk Score.
+- Compare literacy and digital access.
+- Evaluate multilingual support on government portals.
+- Demonstrate how AI can improve language accessibility.
+
+---
+
+# Tools Used
+
+- Power BI
+- Microsoft Excel
+- Claude AI / ChatGPT
+- DAX
+- Power Query
+
+---
+
+# Dashboard Features
+
+- ECOWAS country map
+- Language Exclusion Risk Score
+- Literacy comparison
+- Female literacy analysis
+- Internet access comparison
+- Government portal language audit
+- AI-generated insights
+- Key Influencers
+- Decomposition Tree
+
+---
+
+# AI Component
+
+The project incorporates AI in three ways:
+
+1. AI-assisted translation into indigenous languages.
+2. AI-generated executive summaries.
+3. Power BI AI visuals for identifying key drivers of exclusion.
+
+---
+
+# Dataset Sources
+
+- World Bank
+- UNESCO
+- GSMA
+- National Statistics Offices
+- Government Digital Identity Portals
+
+---
+
+# Repository Structure
+
+```
+├── Data
+│   ├── ECOWAS_Data.xlsx
+│
+├── Dashboard
+│   ├── Language_Digital_Inclusion.pbix
+│
+├── Images
+│
+├── AI_PROMPTS.md
+│
+├── README.md
+│
+└── Presentation.pdf
+```
+
+---
+
+# Key Insights
+
+- Language exclusion remains a significant barrier to digital identity access.
+- Women experience higher exclusion due to lower literacy levels.
+- Indigenous language support is limited across government portals.
+- Countries with lower official-language reach generally have higher exclusion risk.
+
+
+
+---
+
+# Future Improvements
+
+- Add more indigenous languages.
+- Integrate live government portal monitoring.
+- Develop an AI chatbot for multilingual digital identity assistance.
+- Expand analysis beyond ECOWAS.
+
+---
+
+# Team
+
+Group 14 – FEMME FOUNDATION
+
+Women Techsters Bootcamp 5.1
+
+---
+
+# License
+
+Educational Project
