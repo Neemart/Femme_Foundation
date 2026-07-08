@@ -15,6 +15,7 @@ Aligned with:
 - SDG 9  Industry, Innovation and Infrastructure
 - SDG 10  Reduced Inequalities
 - SDG 16  Peace, Justice and Strong Institutions
+- SDG 5 Gender inequality
 ---
 
 ## Key Finding
@@ -28,10 +29,10 @@ Across 8 audited government digital identity portals, 0 currently offer any indi
 | Name | Role | Responsibility |
 |---|---|---|
 | Lilian Kanu | Technical Project Manager / Group Rep | Overall coordination, schedule, Demo Day, final submission |
-| Shammah Ogbodo-Benson | Team Lead – Data Strategy, Sourcing & Cleaning | Collect, clean, and standardize source datasets |
-| Naimat Ayomide Daud | Lead Analyst – Language Mapping & Risk Score | Language mapping, Risk Score methodology, GitHub management |
-| Bernice Makata | Lead Analyst – Literacy & Gender Data | Literacy, female literacy, internet access, gender trends |
-| Zwothe Matamela | Lead Analyst – Portal Audit & AI Translation | Digital ID portal audit, AI translation demo, documentation validation |
+| Shammah Ogbodo-Benson | Data Analyst – Data Strategy, Sourcing & Cleaning | Collect, clean, and standardize source datasets |
+| Naimat Ayomide Daud | Data Analyst – Language Mapping & Risk Score | Language mapping, Risk Score methodology, GitHub management |
+| Bernice Makata | Data Analyst – Literacy & Gender Data | Literacy, female literacy, internet access, gender trends |
+| Zwothe Matamela | Data Analyst – Portal Audit & AI Translation | Digital ID portal audit, AI translation demo, documentation validation |
 | Blessinge Bukola Ademola | N|A
 | Jemima Abah | Data Analyst – Dashboard Visualization | Charts, maps, slicers, presentation design |
 | Gift Ikechukwu | Data Analyst – Documentation & Reporting | Team register, report writing, final QA |
@@ -209,10 +210,10 @@ The project incorporates AI in three ways:
 | Name | Role | Responsibility |
 |---|---|---|
 | Lilian Kanu | Technical Project Manager / Group Rep | Overall coordination, schedule, Demo Day, final submission |
-| Shammah Ogbodo-Benson | Team Lead – Data Strategy, Sourcing & Cleaning | Collect, clean, and standardize source datasets |
-| Naimat Ayomide Daud | Lead Analyst – Language Mapping & Risk Score | Language mapping, Risk Score methodology, GitHub management |
-| Bernice Makata | Lead Analyst – Literacy & Gender Data | Literacy, female literacy, internet access, gender trends |
-| Zwothe Matamela | Lead Analyst – Portal Audit & AI Translation | Digital ID portal audit, AI translation demo, documentation validation |
+| Shammah Ogbodo-Benson | Data Strategy, Sourcing & Cleaning | Collect, clean, and standardize source datasets |
+| Naimat Ayomide Daud | Data Analyst – Language Mapping & Risk Score | Language mapping, Risk Score methodology, GitHub management |
+| Bernice Makata | Data Analyst – Literacy & Gender Data | Literacy, female literacy, internet access, gender trends |
+| Zwothe Matamela | Data Analyst – Portal Audit & AI Translation | Digital ID portal audit, AI translation demo, documentation validation |
 | Blessing Bukola Ademola | N|A 
 | Jemima Abah | Data Analyst – Dashboard Visualization | Charts, maps, slicers, presentation design |
 | Gift Ikechukwu | Data Analyst – Documentation & Reporting | Team register, report writing, final QA |
