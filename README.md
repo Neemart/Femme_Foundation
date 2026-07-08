@@ -58,6 +58,9 @@ Risk Score = Literacy Risk + Fluency Risk + Internet Risk + Fragmentation Risk (
 
 Risk Tiers: 0–33 Low · 34–66 Medium · 67–100 High
 
+
+
+
 Full formula, weighting rationale, and data sources are documented in /methodology.
 ----
 
