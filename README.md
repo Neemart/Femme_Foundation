@@ -106,7 +106,29 @@ SDG 05 (Gender Equality): Measures how language exclusion impacts women more sev
 ---
 
 # Dashboard Architecture & Views
-The Power BI evidence dashboard comprises 4 core interactive pages covering all 12 ECOWAS states:  1. Exclusion Overview (Problem Statement)File Reference: Screenshot (318).jpg  Key Visuals & Metrics:Headline KPIs: 12 Countries Covered, 56.83 Average Risk Score, 20% Portals Non-Functional.  Risk Score Bar Chart: Guinea (70) and Guinea-Bissau (70) represent the highest exclusion risk, whereas Ghana (27) scores lowest.  Indigenous Languages Table: Highlights primary languages per country (e.g., Fon, Yoruba, Hausa, Wolof, Krio).  Multilingual Coverage Gap: Official vs. Indigenous percentage coverage breakdown.  2. Access Evaluation (Evidence of Barriers)File Reference: Screenshot (319).jpg  Key Visuals & Metrics:Literacy Trends & Gender Gap: Line chart comparing female vs. male literacy (highlights gaps exceeding 20 points in 5 countries, peaking at 29 points in Guinea).  Effective Access Breakdown: Evaluates true access based on literacy and official language reach.  Portal Audit Breakdown: Analysis of 15 national government portals—0 out of 15 offer any indigenous African language support.  3. AI-Assisted Insights (Drivers of Exclusion)File Reference: Screenshot (320).jpg  Key Visuals & Analytics:Key Influencers & Decomposition Tree: Machine-learning visuals breaking down primary drivers of Severe Risk Tiers by country and language group.  Scatter Plot: Average Risk Score vs. Effective Access % (validating that higher risk directly tracks with lower effective access).  Priority Deployment Ranking: Prioritizes regions for immediate intervention.  4. Summary & Recommendations (Solutions & Policy)File Reference: Screenshot (321).jpg  Key Visuals & Metrics:Deployment Needs: Evaluates offline vs. cloud mode requirements across 12 countries (9 require offline capabilities).  Smart Narrative Box: Auto-generated summaries dynamically updating based on slicers and filters.  Policy Guidance: Directs decision-makers toward priority regions (Guinea, Guinea-Bissau, Sierra Leone, Liberia).
+# The Power BI evidence dashboard comprises 4 core interactive pages covering all 12 ECOWAS states:  
+
+1. Exclusion Overview (Problem Statement)File Reference: Screenshot (318).jpg  Key Visuals & Metrics:Headline KPIs: 12 Countries Covered, 56.83 Average Risk Score, 20% Portals Non-Functional.  Risk Score Bar Chart: Guinea (70) and Guinea-Bissau (70) represent the highest exclusion risk, whereas Ghana (27) scores lowest.  Indigenous Languages Table: Highlights primary languages per country (e.g., Fon, Yoruba, Hausa, Wolof, Krio).  Multilingual Coverage Gap: Official vs. Indigenous percentage coverage breakdown.
+
+![image alt](https://github.com/Neemart/Femme_Foundation/blob/79f93ea2f21595fce312e3180d0d9460620d9d5d/Screenshot%20(318).png)
+
+ 
+ 3. Access Evaluation (Evidence of Barriers)File Reference: Screenshot (319).jpg  Key Visuals & Metrics:Literacy Trends & Gender Gap: Line chart comparing female vs. male literacy (highlights gaps exceeding 20 points in 5 countries, peaking at 29 points in Guinea).  Effective Access Breakdown: Evaluates true access based on literacy and official language reach.  Portal Audit Breakdown: Analysis of 15 national government portals—0 out of 15 offer any indigenous African language support.
+
+![image alt](https://github.com/Neemart/Femme_Foundation/blob/79f93ea2f21595fce312e3180d0d9460620d9d5d/Screenshot%20(318).png)
+
+ 
+ 4. AI-Assisted Insights (Drivers of Exclusion)File Reference: Screenshot (320).jpg  Key Visuals & Analytics:Key Influencers & Decomposition Tree: Machine-learning visuals breaking down primary drivers of Severe Risk Tiers by country and language group.  Scatter Plot: Average Risk Score vs. Effective Access % (validating that higher risk directly tracks with lower effective access).  Priority Deployment Ranking: Prioritizes regions for immediate intervention.
+
+![image alt]()
+ 
+5. Summary & Recommendations (Solutions & Policy)File Reference: Screenshot (321).jpg  Key Visuals & Metrics:Deployment Needs: Evaluates offline vs. cloud mode requirements across 12 countries (9 require offline capabilities).  Smart Narrative Box: Auto-generated summaries dynamically updating based on slicers and filters.  Policy Guidance: Directs decision-makers toward priority regions (Guinea, Guinea-Bissau, Sierra Leone, Liberia).
+
+![image alt]()
+
+
+--
+# Data Sources
 
 - Measure language exclusion across ECOWAS.
 - Create a Language Exclusion Risk Score.
