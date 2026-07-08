@@ -39,6 +39,7 @@ SDG 05 (Gender Equality): Measures how language exclusion impacts women more sev
  Key Visuals & Analytics:Key Influencers & Decomposition Tree: Machine-learning visuals breaking down primary drivers of Severe Risk Tiers by country and language group.  Scatter Plot: Average Risk Score vs. Effective Access % (validating that higher risk directly tracks with lower effective access).  Priority Deployment Ranking: Prioritizes regions for immediate intervention.
 
 ![image alt](https://github.com/Neemart/Femme_Foundation/blob/6f1771e284218f54685a80a95523cd2a37edde22/Screenshot%20(320).png)
+
  
 5. Summary & Recommendations (Solutions & Policy)File Reference:
     Key Visuals & Metrics:Deployment Needs: Evaluates offline vs. cloud mode requirements across 12 countries (9 require offline capabilities).  Smart Narrative Box: Auto-generated summaries dynamically updating based on slicers and filters.  Policy Guidance: Directs decision-makers toward priority regions (Guinea, Guinea-Bissau, Sierra Leone, Liberia).
