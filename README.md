@@ -124,7 +124,7 @@ SDG 05 (Gender Equality): Measures how language exclusion impacts women more sev
  
 5. Summary & Recommendations (Solutions & Policy)File Reference: Screenshot (321).jpg  Key Visuals & Metrics:Deployment Needs: Evaluates offline vs. cloud mode requirements across 12 countries (9 require offline capabilities).  Smart Narrative Box: Auto-generated summaries dynamically updating based on slicers and filters.  Policy Guidance: Directs decision-makers toward priority regions (Guinea, Guinea-Bissau, Sierra Leone, Liberia).
 
-![image alt]()
+![image alt](https://github.com/Neemart/Femme_Foundation/blob/62174170d212aeb471fd29835e83fba18d35f820/Screenshot%20(321).png)
 
 
 --
