@@ -213,7 +213,7 @@ The project incorporates AI in three ways:
 | Naimat Ayomide Daud | Lead Analyst – Language Mapping & Risk Score | Language mapping, Risk Score methodology, GitHub management |
 | Bernice Makata | Lead Analyst – Literacy & Gender Data | Literacy, female literacy, internet access, gender trends |
 | Zwothe Matamela | Lead Analyst – Portal Audit & AI Translation | Digital ID portal audit, AI translation demo, documentation validation |
-| Blessing Bukola Ademola | Data Analyst – DAX & Calculations | All Power BI DAX measures, calculated columns, KPIs |
+| Blessing Bukola Ademola | N|A 
 | Jemima Abah | Data Analyst – Dashboard Visualization | Charts, maps, slicers, presentation design |
 | Gift Ikechukwu | Data Analyst – Documentation & Reporting | Team register, report writing, final QA |
 
