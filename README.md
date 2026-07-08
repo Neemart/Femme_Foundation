@@ -115,7 +115,7 @@ SDG 05 (Gender Equality): Measures how language exclusion impacts women more sev
  
  3. Access Evaluation (Evidence of Barriers)File Reference: Screenshot (319).jpg  Key Visuals & Metrics:Literacy Trends & Gender Gap: Line chart comparing female vs. male literacy (highlights gaps exceeding 20 points in 5 countries, peaking at 29 points in Guinea).  Effective Access Breakdown: Evaluates true access based on literacy and official language reach.  Portal Audit Breakdown: Analysis of 15 national government portals—0 out of 15 offer any indigenous African language support.
 
-![image alt](https://github.com/Neemart/Femme_Foundation/blob/79f93ea2f21595fce312e3180d0d9460620d9d5d/Screenshot%20(318).png)
+![image alt](https://github.com/Neemart/Femme_Foundation/blob/d3a4cb368bed4bd8b6e3536d51231b3b6c2065e1/Screenshot%20(319).png)
 
  
  4. AI-Assisted Insights (Drivers of Exclusion)File Reference: Screenshot (320).jpg  Key Visuals & Analytics:Key Influencers & Decomposition Tree: Machine-learning visuals breaking down primary drivers of Severe Risk Tiers by country and language group.  Scatter Plot: Average Risk Score vs. Effective Access % (validating that higher risk directly tracks with lower effective access).  Priority Deployment Ranking: Prioritizes regions for immediate intervention.
