@@ -57,7 +57,7 @@ Risk Score = Literacy Risk + Fluency Risk + Internet Risk + Fragmentation Risk (
 - Fragmentation Risk  based on number of indigenous languages with no official digital recognition
 
 Risk Tiers: 0–33 Low · 34–66 Medium · 67–100 High
-![image alt]() 
+![image alt](https://github.com/Neemart/Femme_Foundation/blob/79f93ea2f21595fce312e3180d0d9460620d9d5d/Screenshot%20(318).png) 
 
 
 
