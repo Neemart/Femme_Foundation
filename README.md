@@ -46,7 +46,8 @@ SDG 05 (Gender Equality): Measures how language exclusion impacts women more sev
 
 ![image alt](https://github.com/Neemart/Femme_Foundation/blob/62174170d212aeb471fd29835e83fba18d35f820/Screenshot%20(321).png)
 
---
+---
+
 # Data Sources
 
 - Measure language exclusion across ECOWAS.
